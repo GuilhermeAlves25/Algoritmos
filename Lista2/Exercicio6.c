@@ -35,4 +35,5 @@ int main (){
 	
 	if (escolha <1 || escolha >3){
 		printf("Erro! Opcao invalida. escolha um numero de 1 a 3");}
+	return 0;
 }
